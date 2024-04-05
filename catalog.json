@@ -12,9 +12,9 @@
             "healthy_error": null,
             "home": "https://github.com/jacobalberty/unifi-docker",
             "location": "/__w/charts/charts/community/unifi-controller",
-            "latest_version": "1.0.3",
+            "latest_version": "1.0.4",
             "latest_app_version": "7.5.176",
-            "latest_human_version": "7.5.176_1.0.3",
+            "latest_human_version": "7.5.176_1.0.4LukeRed/truenas_charts",
             "last_update": "2023-10-18 09:27:59",
             "name": "unifi-controller-vl",
             "recommended": false,
@@ -33,7 +33,7 @@
             "screenshots": [],
             "sources": [
                 "https://github.com/jacobalberty/unifi-docker",
-                "https://github.com/truenas/charts/tree/master/library/ix-dev/community/unifi-controller",
+                "https://github.com/LukeRed/truenas_charts/tree/master/library/ix-dev/community/unifi-controller",
                 "https://hub.docker.com/r/jacobalberty/unifi"
             ],
             "icon_url": "https://theme.zdassets.com/theme_assets/77613/f9322e267ea20a462f60726984c22c1b8d5743b4.ico"
