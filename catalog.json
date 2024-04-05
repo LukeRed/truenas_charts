@@ -1,7 +1,7 @@
 {
     "charts": {},
     "test": {},
-    "stable": {
+    "community": {
         "unifi-controller": {
             "app_readme": "<h1>Unifi Controller</h1>\n<p><a href=\"https://github.com/jacobalberty/unifi-docker\">Unifi Controller</a> is a network management controller for Unifi Equipment.</p>\n<blockquote>\n<p>When application is installed, a container will be launched with <strong>root</strong> privileges.\nThis is required in order to apply the correct permissions to the <code>Unifi Controller</code> directories.\nAfterward, the <code>Unifi Controller</code> container will run as a <strong>non</strong>-root user (<code>999</code>).\nAll mounted storage(s) will be <code>chown</code>ed only if the parent directory does not match the configured user.</p>\n</blockquote>",
             "categories": [
